@@ -3,7 +3,7 @@ const express = require('express'); // Express framework for building the server
 const cors = require('cors');
 const bodyParser = require('body-parser');
 const path = require('path');
-const fs = require('fs')
+const fs = require('fs');
 const mongodb = require('mongodb');
 
 // Creating an instance of the Express application
